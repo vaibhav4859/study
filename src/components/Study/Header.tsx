@@ -10,18 +10,17 @@ import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import { useNavigate } from "react-router-dom";
 
 const data = [
-  { text: "Plan your trip on Germany", id: "section1" },
-  { text: "Structure of higher education in germany", id: "section2" },
   {
-    text: "Factors to consider when applying to germany / beyond univeristy ranking",
+    text: "What factors should you consider when applying to germany?",
     id: "section3",
   },
-  { text: "3 types of German national visa", id: "section5" },
-  { text: "German Student Visa Requirements", id: "section6" },
-  { text: "Enroll in desired Academic Program", id: "section7" },
   {
-    text: "Requirements to Apply for a Student Residence Permit and FAQs",
-    id: "section8",
+    text: "What factors should you consider beyond university ranking?",
+    id: "section4",
+  },
+  {
+    text: "how is higher education structured in germany?",
+    id: "section`",
   },
 ];
 
